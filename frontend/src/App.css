@@ -1,0 +1,28 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background: linear-gradient(to bottom, #000428, #004e92);
+    font-family: Arial, sans-serif;
+  }
+  
+  #root {
+    height: 100%;
+  }
+  
+  .navbar {
+    background: linear-gradient(to right, #000428, #004e92);
+  }
+  
+  .hero {
+    background: linear-gradient(to right, #000428, #004e92);
+  }
+  
+  .modal {
+    background: rgba(0, 0, 0, 0.8);
+  }
+  
+  .modal-box {
+    background: #1e3a8a;
+    color: white;
+  }
+  
